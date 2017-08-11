@@ -1,2 +1,2 @@
-# php-design-pattern
-PHP设计模式
+# PHP设计模式
+精心整理了php常见的设计模式以及实例，以供参考。
