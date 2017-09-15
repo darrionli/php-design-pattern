@@ -7,6 +7,9 @@ class Db{
 	private function __clone(){
 
 	}
+	private function __wakeup(){
+
+	}
 	public static function getInstance()
 	{
 		if(self::$dbObj === NULL){
